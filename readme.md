@@ -1,35 +1,30 @@
 # Hi, I'm Velimir
 
-Software Architect focused on SaaS platforms, AI-powered applications, and workflow automation systems.
+Software Architect focused on SaaS platforms, AI systems, workflow automation, and business-critical software.
 
-Over the past 17+ years, I've designed and built products where software, data, AI, and business processes operate as a unified system.
+Over the past 17+ years, I've worked across product development, backend engineering, and platform architecture, helping companies build systems that remain reliable as products, teams, and operational complexity grow.
 
-## Current Focus
+## What I Work On
 
-- AI Agents & Agentic Workflows
-- RAG Systems & Semantic Search
-- Multi-Tenant SaaS Platforms
-- Workflow Automation
-- FinTech & Revenue Infrastructure
-- Cloud-Native Architecture
+* SaaS Platform Architecture
+* AI-Powered Applications
+* Workflow Automation Systems
+* Multi-Tenant Platforms
+* Revenue & Billing Infrastructure
+* Business Process Management
+* Cloud-Native Systems
 
-## Selected Projects
+## Current Interests
 
-### AI Workflow Automation Platform
-AI-native workflow orchestration with human approval checkpoints, knowledge retrieval, and operational automation.
-
-### Subscription Billing & Revenue Operations Platform
-Event-driven billing infrastructure supporting usage metering, invoicing, reconciliation, and revenue reporting.
-
-### Business Process & Operations Management Platform
-Workflow engine, approvals, operational dashboards, and cross-department process automation.
+* AI Agents & Agentic Workflows
+* RAG Systems & Semantic Search
+* Event-Driven Architecture
+* Operational Intelligence
+* System Observability
+* Product Engineering
 
 ## Core Technologies
 
-Python • FastAPI • TypeScript • Next.js • PostgreSQL • Supabase • Redis • AWS • OpenAI • Claude • LangGraph • Stripe
+Python • FastAPI • TypeScript • Next.js • PostgreSQL • Supabase • Redis • AWS • Azure • OpenAI • Claude • LangGraph • Stripe
 
-## Philosophy
-
-Most software problems are not feature problems.
-
-They are ownership, workflow, and data consistency problems.
+> Good software survives growth. Great software makes growth easier.
